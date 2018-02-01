@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+  </head>
+
+  <body>
+<table>
+<tr>
+<th>Period</th>
+<th></th>
+<th>Class</th>
+<th></th>
+<th>Teacher</th>
+<th></th>
+<th>Room</th>
+</tr>
+<tr>
+<td>1</td>
+<td></td>
+<td>Honors English Language Arts 8</td>
+<td></td>
+<td><a href="" target="_blank">Anderson</a></td> 
+<td></td>
+<td>81</td>
+</tr>
+<tr>
+<td>2</td>
+<td></td>
+<td>Honors 8th Grade Science</td>
+<td></td>
+<td><a href="http://www.mpsaz.org/rhodes/staff/mmbeaith/" target="_blank">Felix</a></td>
+<td></td>
+<td>13</td>
+</tr>
+<tr>
+<td>3</td>
+<td></td>
+<td>Drawing and Painting</td>
+<td></td>
+<td><a href="http://www.mpsaz.org/rhodes/staff/nnwons/" target="_blank">Wons</a></td>
+<td></td>
+<td>205</td>
+</tr>
+<tr>
+<td>4</td>
+<td></td>
+<td>Introduction to Industrial Technology</td>
+<td></td>
+<td><a href="http://www.mpsaz.org/rhodes/staff/ekalvans/" target="_blank">Kalvans</a></td>
+<td></td>
+<td>12</td>
+</tr>
+<tr>
+<td>5</td>
+<td></td>
+<td>Algebra I</td>
+<td></td>
+<td><a href="http://www.mpsaz.org/rhodes/staff/klday" target="_blank">Day</a></td>
+<td></td>
+<td>85</td>
+</tr>
+<tr>
+<td>6</td>
+<td></td>
+<td>8th Grade Honors Social Studies</td>
+<td></td>
+<td><a href="http://www.mpsaz.org/rhodes/staff/jtwright/" target="_blank">Wright</a></td>
+<td></td>
+<td>71</td>
+</tr>
+<tr>
+<td>7</td>
+<td></td>
+<td>Physical Education - General Elective</td>
+<td></td>
+<td><a href="" target="_blank">Randall</a></td>
+<td></td>
+<td>25</td>
+</tr>
+</table>
+<hr />
+<table>
+<tr>
+<th>Period</th>
+<th></th>
+<th>Class</th>
+<th></th>
+<th>Teacher</th>
+<th></th>
+<th>Room</th>
+</tr>
+<tr>
+<td>1</td>
+<td></td>
+<td>Honors English Language Arts 8</td>
+<td></td>
+<td><a href="" target="_blank">Anderson</a></td>
+<td></td>
+<td>81</td>
+</tr>
+<tr>
+<td>2</td>
+<td></td>
+<td>Honors 8th Grade Science</td>
+<td></td>
+<td><a href="http://www.mpsaz.org/rhodes/staff/mmbeaith/" target="_blank">Felix</a></td>
+<td></td>
+<td>13</td>
+</tr>
+<tr>
+<td>3</td>
+<td></td>
+<td>Woodworking Technology - Basic</td>
+<td></td>
+<td><a href="http://www.mpsaz.org/rhodes/staff/ekalvans/" target="_blank">Kalvans</a></td>
+<td></td>
+<td>12</td>
+</tr>
+<tr>
+<td>4</td>
+<td></td>
+<td>Computer Programming & App Development</td>
+<td></td>
+<td><a href="http://www.mpsaz.org/rhodes/staff/jsjuhayjone/" target="_blank">Jones</a></td>
+<td></td>
+<td>32</td>
+</tr>
+<tr>
+<td>5</td>
+<td></td>
+<td>8th Grade Honors Social Studies</td>
+<td></td>
+<td><a href="http://www.mpsaz.org/rhodes/staff/jtwright/" target="_blank">Wright</a></td>
+<td></td>
+<td>71</td>
+</tr>
+<tr>
+<td>6</td>
+<td></td>
+<td>Web Creations</td>
+<td></td>
+<td><a href="http://www.mpsaz.org/rhodes/staff/sejaggers/" target="_blank">Jaggers</a></td>
+<td></td>
+<td>57</td>
+</tr>
+<tr>
+<td>7</td>
+<td></td>
+<td>Algebra 1</td>
+<td></td>
+<td><a href="http://www.mpsaz.org/rhodes/staff/klday" target="_blank">Day</a></td>
+<td></td>
+<td>85</td>
+</tr>
+</table>
+
+
+
+  </body>
+</html>
